@@ -1,0 +1,51 @@
+﻿# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+*.out
+*.o
+
+# Go test binaries
+*.test
+
+# Coverage data
+*.cover
+
+# Vendor directory (if using modules, this can be ignored unless you vendor dependencies)
+vendor/
+
+# Go module cache
+go.sum
+
+# IDE and editor-specific files
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA / Goland
+.idea/
+*.iml
+
+# Vim swap files
+*.swp
+*.swo
+
+# Emacs backup files
+*~
+
+# macOS-specific files
+.DS_Store
+
+# Node.js-specific files (if your project uses frontend code)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.temp
